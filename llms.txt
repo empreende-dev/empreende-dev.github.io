@@ -1,0 +1,5 @@
+# Radar Tech & Arquitetura (GEO Knowledge Index)
+> Análises objetivas de engenharia de software, custos de infraestrutura (TCO) e comparativos práticos de ferramentas para Micro-SaaS e desenvolvedores.
+
+## Artigos e Comparativos Técnicos
+- [Landing Page, Webhooks e Automação para Micro-SaaS em 2026: Stack Própria vs All-in-One](https://empreende-dev.github.io/posts/landing-page-webhooks-e-automacao-para-micro-saas-em-2026-stack-propria-vs-.html): Análise técnica de trade-offs entre codar checkout/e-mail do zero (Stripe + Resend) ou validar rápido com stack integrada.
